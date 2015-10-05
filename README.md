@@ -1,15 +1,11 @@
 # LocusLabs137FullExample
--------------------------
-
 This repo contains the recommended implementation of a project using the LocusLabs SDK.
 
 # Requirements
--------------------------
 * Xcode (7.0 minimum)
 * Cocoapods (https://cocoapods.org/)
 
 # Building the project
--------------------------
 1. In the project directory, run the following command: (requires Cocoapods)
 ```
 pod install
